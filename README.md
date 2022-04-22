@@ -15,3 +15,17 @@ Pour ceci, baladez-vous de branche en branche !
 #### Exo-6 (étape 6) : Améliorer la présentation (encore) avec cette fois le CSS de Bootstrap. 🟪
 #### Exo-7 (étape 7 & finale) : Améliorer la présentation (oui encore encore) avec des composants de Bootstrap & importer le JS de Bootstrap et JQuery. 🟪
 ```
+
+## GitFlow :
+
+#### Main (vide) -> Étape 1 (BRANCHE exo-1) -> Merge vers Main
+#### Main (avec l'étape 1) -> Étape 2 (BRANCHE exo-2) -> Merge vers Main
+#### Main (avec l'étape 2) -> Étape 3 (BRANCHE exo-3) -> Merge vers Main
+#### Main (avec l'étape 3) -> Étape 4 (BRANCHE exo-4) -> Merge vers Main
+#### Main (avec l'étape 4) -> Étape 5 (BRANCHE exo-5) -> Merge vers Main
+#### Main (avec l'étape 5) -> Étape 6 (BRANCHE exo-6) -> Merge vers Main
+#### Main (avec l'étape 6) -> Étape 7 (BRANCHE exo-7) -> Merge vers Main
+
+## Documentations utilisés :
+#### Pour l'HTML/CSS/JS : https://developer.mozilla.org/fr/docs/ (MDN) 🟧🟦🟨
+#### Pour Bootstrap : https://getbootstrap.com/docs/5.1/ (Documentation officielle de Bootstrap) 🟪
