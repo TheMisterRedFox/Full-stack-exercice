@@ -1,4 +1,4 @@
-const body = document.querySelector("body");
+const div = document.querySelector(".helloWorld");
 const helloWorld = document.createElement("h1");
 helloWorld.innerText = "Hello World!";
-body.appendChild(helloWorld);
+div.appendChild(helloWorld);
